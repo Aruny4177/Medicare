@@ -1,5 +1,5 @@
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-<link href="views/css/Style.css" rel="stylesheet">   
+<link href="resources/css/Style.css" rel="stylesheet">   
     <style>
    
     </style>
@@ -9,10 +9,10 @@
         <div class="footer-top" > 
            <div class="container">
              <div class="col-lg-2 col-xs-12 text-center">
-                 <a href="https://www.facebook.com/" target="nm"><i class="fa fa-facebook fa-2x"></i>Facebook</a>
+                 <a href="https://www.facebook.com/" target="nm" style="color:#0000FF"><i class="fa fa-facebook fa-2x"></i>Facebook</a>
              </div>
               <div class="col-lg-2 col-xs-12 text-center">
-                 <a href="https://twitter.com/" target="nm"><i class="fa fa-twitter fa-2x"></i>Twitter</a>
+                 <a href="https://twitter.com/" target="nm" style="color:#0000FF"><i class="fa fa-twitter fa-2x"></i>Twitter</a>
              </div>
            </div> 
         </div>  
