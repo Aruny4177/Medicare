@@ -1,0 +1,16 @@
+
+Today's Task (18-Jan-2018)...
+
+Create a web site for User Registration and Login using the below tools and technologies.
+
+1. Spring Framework (Core, MVC & JBDC)
+
+2. Java 1.8
+
+3. Maven
+
+4. Eclipse IDE 
+
+5. Any DB as per your convinence (Oracle, MS SQL, MySQL, H2)
+
+You must create view for all the events like, Login success, Login Failure, registration Success, All types of Validation related with EmailID, Password, DOB...
