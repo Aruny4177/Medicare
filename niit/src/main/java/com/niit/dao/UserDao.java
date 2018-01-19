@@ -2,17 +2,12 @@ package com.niit.dao;
 
 import java.util.List;
 
-import com.niit.model.User;
+import com.niit.Model.User;
 
 public interface UserDao {
 
-	public void insertUser(User user);
-	public User getUserDetails(String email);
+	public	List<User> getAll();
+	public void addUser(User product);
 	
-
-   public User getUById(int customerId);
-
-   public List<User> getAllCustomers();
-
-   User getCustomerByUsername(String username);
+	
 }
